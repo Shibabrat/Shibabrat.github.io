@@ -1,13 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: https://github.com/Shibabrat
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=Df9rx2gAAAAJ&hl=en&authuser=1
-  - title: "Biography"
-    url: /bio.md/
+    url: /about/
   - title: "Research"
-    url: /docs/research-interests.md
+    url: /research/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Publications"
+    url: /publications/
+  # - title: "Research"
+    # url: 
   # - title: "Sitemap"
     # url: /sitemap/
 
