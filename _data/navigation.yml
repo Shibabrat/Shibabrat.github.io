@@ -1,13 +1,17 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
-  - title: "Gallery"
-    url: /gallery/
   - title: "Publications"
     url: /publications/
+  - title: "Biography"
+    url: /bio/
+  - title: "Gallery"
+    url: /gallery/
+  # - title: "Outreach"
+  #   url: /outreach/
+  # - title: "Academic hobbies"
+  #   url: /academic-hobbies/
   # - title: "Research"
     # url: 
   # - title: "Sitemap"

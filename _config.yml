@@ -21,6 +21,7 @@ title                    : "Shibabrat Naik"
 # title                    : "Nonlinear dynamics and chaos, Engineering Science and Mechanics" #Shibabrat Naik's research findings and updates, Updates from my research and interesting things
 # title_separator          : "Dynamical systems theory and applications in physical sciences and engineering"
 # subtitle                 : "Updates on my research, writings, readings, talks, and thoughts" # site tagline that appears below site title in masthead
+# subtitle                 : "Ph.D., Engineering Mechanics, Virginia Tech"
 name                     : "Shibabrat Naik"
 # description              : "" 
 url                      : "https://shibabrat.github.io"
@@ -68,7 +69,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -113,8 +114,10 @@ author:
   name             : "Shibabrat Naik"
   avatar           : "/images/headshot2019.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "Postdoctoral Research Associate, Applied Mathematics."
-  # bio              : "Ph.D., Engineering Mechanics, Virginia Tech. B.E., Civil Engineering, Jadavpur University"
-  bio              : "Research fellow, Mathematics Institute, University of Warwick"
+  # bio              : "Research fellow, Mathematics Institute \n \n University of Warwick"
+  # bio              : "Ph.D., Engineering Mechanics, Virginia Tech; \ B.E., Civil Engineering, Jadavpur University"
+  bio              : "Applied Mathematician <br />
+                      Engineer"
   location         : "Bristol, UK"
   email            :
   links:
