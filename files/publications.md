@@ -1,10 +1,16 @@
 ---
 layout: splash
-title: Publications
-permalink: /publications/
+title: Articles and books
+permalink: /articles-books/
 ---
 
-## Publications
+## Peer-reviewed publications
+
+
+## Open-source books
+
+
+## Technical reports
 
 
 

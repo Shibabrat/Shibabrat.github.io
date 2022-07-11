@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 
-## Research outputs
+## Computation and visualization
 
 
 ## Outreach
