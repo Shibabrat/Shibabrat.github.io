@@ -115,10 +115,8 @@ author:
   # name             : ""
   avatar           : "/images/headshot2019.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   # bio              : "Postdoctoral Research Associate, Applied Mathematics."
-  # bio              : "Research fellow, Mathematics Institute \n \n University of Warwick"
-  # bio              : "Ph.D., Engineering Mechanics, Virginia Tech; \ B.E., Civil Engineering, Jadavpur University"
-  bio              : "Applied Mathematician <br />
-                      Engineer"
+  bio              : "Research fellow <br /> Mathematics Institute <br /> University of Warwick"
+  
   location         : "Bristol, UK"
   email            :
   links:
