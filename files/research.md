@@ -31,17 +31,6 @@ We developed a computational method for finding normally hyperbolic invariant ma
 This work validated the theory of flux over a saddle which is relevant for computing transition or escape rate in many physical sciences and engineering systems such as chemical reaction rates, buckling failure characteristics of columns, capsize criteria for ships, asteroid capture by planets, to name but a few. We developed the physical experiment and numerical method for computing the global phase space structures, cylindrical invariant manifolds, and reactive islands associated with the index-1 saddles on a multiwell potential energy surface. Our numerical and experimental results also showed agreement for high values of the energy above the saddle.
 
 
-
-
-## Research interests
-
-My interests are broadly in theory and applications of nonlinear dynamics and chaos. This constitutes developing new methods - analytical and numerical - for solving problems in engineering and natural sciences.
-
-Nonlinear dynamics and chaos: Geometric and statistical methods of chaotic dynamics, Discovery of structures in phase space transport, Partial control of escape and transition dynamics, Phase space structures based control.
-
-Data-driven methods: Transport barriers in atmosphere and ocean, Machine learning phase space structures, Reduced order modeling, Defect and anomaly detection in structural dynamics
-
-
 <!-- ### Lobe d​ynamics and transport in heteroclinic tangles -->
 
 <!-- ### Partial control of escaping dynamics and chaos -->
